@@ -7,7 +7,7 @@
     "day": "node lib/scripts/setup-day.js",
     "start": "node ./",
     "test": "jest",
-    "watch": "jest --watchAll"
+    "watch": "jest --watch"
   },
   "author": "mraxus",
   "license": "ISC",
