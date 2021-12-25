@@ -1,0 +1,42 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./",
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "author": "mraxus",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "aoc": {
+    "year": 2021,
+    "days": [
+      {
+        "day": 1,
+        "name": "Sonar Sweep"
+      },
+      {
+        "day": 2,
+        "name": "Dive!"
+      },
+      {
+        "day": 3,
+        "name": "Binary Diagnostic"
+      },
+      {
+        "day": 4,
+        "name": "Giant Squid"
+      }
+    ],
+    "author": "mraxus",
+    "stars": 6
+  }
+}
