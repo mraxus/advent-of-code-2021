@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "day": "node lib/scripts/setup-day.js",
     "start": "node ./",
     "test": "jest",
     "watch": "jest --watchAll"

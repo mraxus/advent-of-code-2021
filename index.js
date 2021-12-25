@@ -6,14 +6,6 @@ const {
 } = require('./package.json');
 
 const assignments = days.map(({ day, name }) => ({ title: `Day ${day}: ${name}`}))
-// const assignments = [
-//   { title: 'Day 1: Sonar Sweep' },
-//   { title: 'Day 2: Dive!' },
-//   { title: 'Day 3: Binary Diagnostic' },
-//   { title: 'Day 4: Giant Squid' },
-//   { title: 'Day 5: Hydrothermal Venture' },
-//   { title: 'Day 6: Lanternfish' },
-// ];
 const white = (text) => `\x1b[38;2;255;255;255m${text}\x1b[0m`;
 const gray = (text) => `\x1b[38;2;178;178;178m${text}\x1b[0m`;
 const yellow = (text) => `\x1b[38;2;255;255;106m${text}\x1b[0m`;
