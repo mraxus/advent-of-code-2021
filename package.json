@@ -35,9 +35,17 @@
       {
         "day": 4,
         "name": "Giant Squid"
+      },
+      {
+        "day": 5,
+        "name": "Hydrothermal Venture"
+      },
+      {
+        "day": 6,
+        "name": "Lanternfish"
       }
     ],
     "author": "mraxus",
-    "stars": 6
+    "stars": 10
   }
 }
