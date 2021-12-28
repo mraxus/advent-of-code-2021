@@ -695,12 +695,10 @@ function part2(input) {
         board.mark(number);
       } catch (ex) {
         if (ex.bingo) {
-          if (boardsLeft === 1)
-            return board.unmarkedSum * number;
+          if (boardsLeft === 1) return board.unmarkedSum * number;
           boardsLeft -= 1;
         } else {
-        throw ex;
-
+          throw ex;
         }
       }
     }
@@ -736,10 +734,7 @@ part1.tests = [
 ];
 
 part2.desc = 'Let the other win';
-part2.tests = [{
-  ...part1.tests[0],
-  result: 1924,
-}];
+part2.tests = [1924];
 
 runIfMain(module, input, part1, part2);
 

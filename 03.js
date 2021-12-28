@@ -1063,7 +1063,7 @@ part1.tests = [
 ];
 
 part2.desc = 'Life support rating';
-part2.tests = [{ ...part1.tests[0], result: 230 }];
+part2.tests = [230];
 
 runIfMain(module, input, part1, part2);
 

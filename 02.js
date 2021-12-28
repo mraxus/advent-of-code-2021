@@ -1032,7 +1032,7 @@ part1.desc = 'Dive!';
 part1.tests = [{ input: `forward 5\ndown 5\nforward 8\nup 3\ndown 8\nforward 2`, result: 150 }];
 
 part2.desc = 'X, Y, Aim';
-part2.tests = [{ ...part1.tests[0], result: 900 }];
+part2.tests = [900];
 
 runIfMain(module, input, part1, part2);
 

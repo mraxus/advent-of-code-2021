@@ -2031,7 +2031,7 @@ part1.desc = 'Sonar Sweep';
 part1.tests = [{ input: `199\n200\n208\n210\n200\n207\n240\n269\n260\n263`, result: 7 }];
 
 part2.desc = 'Sonar Sweep - Sliding window';
-part2.tests = [{ ...part1.tests[0], result: 5 }];
+part2.tests = [5];
 
 runIfMain(module, input, part1, part2);
 
