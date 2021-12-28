@@ -43,9 +43,13 @@
       {
         "day": 6,
         "name": "Lanternfish"
+      },
+      {
+        "day": 7,
+        "name": "The Treachery of Whales"
       }
     ],
     "author": "mraxus",
-    "stars": 10
+    "stars": 12
   }
 }
