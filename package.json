@@ -47,9 +47,17 @@
       {
         "day": 7,
         "name": "The Treachery of Whales"
+      },
+      {
+        "day": 8,
+        "name": "Seven Segment Search"
+      },
+      {
+        "day": 9,
+        "name": "Smoke Basin"
       }
     ],
     "author": "mraxus",
-    "stars": 12
+    "stars": 16
   }
 }
