@@ -55,9 +55,17 @@
       {
         "day": 9,
         "name": "Smoke Basin"
+      },
+      {
+        "day": 10,
+        "name": "Syntax Scoring"
+      },
+      {
+        "day": 11,
+        "name": "Dumbo Octopus"
       }
     ],
     "author": "mraxus",
-    "stars": 16
+    "stars": 20
   }
 }
