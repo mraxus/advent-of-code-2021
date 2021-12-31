@@ -290,7 +290,7 @@ function part2(input) {
   return lines.map(parseLine).reduce((sum, num) => sum + num);
 }
 
-part1.desc = 'part 1';
+part1.desc = 'Count of all 1, 4, 7 and 8 digits';
 part1.tests = [
   {
     input: `be cfbegad cbdgef fgaecd cgeb fdcge agebfd fecdb fabcd edb | fdgacbe cefdb cefbgd gcbe
@@ -307,7 +307,7 @@ gcafb gcf dcaebfg ecagb gf abcdeg gaef cafbge fdbac fegbdc | fgae cfgab fg bagce
   },
 ];
 
-part2.desc = 'part 2';
+part2.desc = 'Sum of all outputs';
 part2.tests = [61229];
 
 runIfMain(module, input, part1, part2);

@@ -39,7 +39,7 @@ function part2(input) {
 part1.desc = '80 days lanternfish count';
 part1.tests = [{ input: '3,4,3,1,2', result: 5934 }];
 
-part2.desc = '80 days lanternfish count';
+part2.desc = '256 days lanternfish count';
 part2.tests = [26984457539];
 
 runIfMain(module, input, part1, part2);

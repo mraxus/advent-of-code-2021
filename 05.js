@@ -581,7 +581,7 @@ part1.tests = [
   },
 ];
 
-part2.desc = 'part 2';
+part2.desc = 'Number of overlapping points';
 part2.tests = [12];
 
 runIfMain(module, input, part1, part2);
