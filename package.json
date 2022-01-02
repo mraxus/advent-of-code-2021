@@ -71,9 +71,13 @@
       {
         "day": 13,
         "name": "Transparent Origami"
+      },
+      {
+        "day": 14,
+        "name": "Extended Polymerization"
       }
     ],
     "author": "mraxus",
-    "stars": 24
+    "stars": 26
   }
 }
