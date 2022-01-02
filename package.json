@@ -67,9 +67,13 @@
       {
         "day": 12,
         "name": "Passage Pathing"
+      },
+      {
+        "day": 13,
+        "name": "Transparent Origami"
       }
     ],
     "author": "mraxus",
-    "stars": 22
+    "stars": 24
   }
 }
