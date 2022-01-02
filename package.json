@@ -63,9 +63,13 @@
       {
         "day": 11,
         "name": "Dumbo Octopus"
+      },
+      {
+        "day": 12,
+        "name": "Passage Pathing"
       }
     ],
     "author": "mraxus",
-    "stars": 20
+    "stars": 22
   }
 }
